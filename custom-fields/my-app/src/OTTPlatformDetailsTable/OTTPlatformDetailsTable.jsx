@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 function OTTPlatformDetails(props) {
 
-    const API_KEY = 'bm1IFjzEZAvTUkS4auqM6tCEp07HvQHSgBAzBEfg';
+    const API_KEY = 'XXXXXXXXXXXX';
 
     function getWatchModeRes1() {
         const cached = {};

@@ -1,0 +1,28 @@
+{
+  "name": "react-projects",
+  "version": "1.0.0",
+  "description": "This is react project",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rama3278/React-projects-js.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ramakrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rama3278/React-projects-js/issues"
+  },
+  "homepage": "https://github.com/rama3278/React-projects-js#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
